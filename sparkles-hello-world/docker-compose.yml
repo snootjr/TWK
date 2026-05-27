@@ -1,4 +1,3 @@
-
 services:
   degoog:
     image: ghcr.io/degoog-org/degoog:latest
