@@ -1,2 +1,32 @@
-id: "TWK-Storeumbrel" # Choose the ID for your app store. This should contain only alphabets ("a to z") and dashes ("-").
-name: "TWK STORE" # Choose the name of your app store. It will show up in the UI as "<name> App Store".
+manifestVersion: 1
+id: TWK Store-DeGoog
+name: DeGOog
+tagline: Search without google BS
+icon: https://github.com/degoog-org/degoog/blob/main/src/public/images/degoog-logo.png
+category: Search
+version: "0.18.0"
+port: 4444
+description: >-
+
+Degoog is a search aggregator that queries multiple engines and shows results in one place. You can add custom search engines, bang-command plugins, slot plugins (query-triggered panels above/below results or in the sidebar), and transports (custom HTTP fetch strategies like curl, FlareSolverr, or your own).
+
+
+  You can also add newlines!
+
+developer: https://github.com/degoog-org
+website: https://github.com/degoog-org
+submitter: https://github.com
+submission:
+repo: https://github.com/getumbrel/umbrel-hello-world-app
+support: https://github.com/getumbrel/umbrel-hello-world-app/issueshttps://github.com/degoog-org
+gallery:
+  -
+  -
+  -
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+
