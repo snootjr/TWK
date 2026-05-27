@@ -1,27 +1,28 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
-category: Development
-version: "1.0.0"
-port: 4000
+id: TWK-Storeumbrel
+name: DeGOOD
+tagline: Search without google BS
+icon: https://github.com/degoog-org/degoog/blob/main/src/public/images/degoog-logo.png
+category: Search
+version: "0.18.0"
+port: 4444
 description: >-
-  Add your app's description here.
+
+Degoog is a search aggregator that queries multiple engines and shows results in one place. You can add custom search engines, bang-command plugins, slot plugins (query-triggered panels above/below results or in the sidebar), and transports (custom HTTP fetch strategies like curl, FlareSolverr, or your own).
 
 
   You can also add newlines!
 
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
+developer: https://github.com/degoog-org
+website: https://github.com/degoog-org
+submitter: https://github.com
+submission:
 repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+support: https://github.com/getumbrel/umbrel-hello-world-app/issueshttps://github.com/degoog-org
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  -
+  -
+  -
 releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies: []
